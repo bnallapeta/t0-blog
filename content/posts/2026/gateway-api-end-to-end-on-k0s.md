@@ -18,7 +18,7 @@ tags:
 categories:
   - tutorials
   - engineering
-draft: true
+draft: false
 description: "A step-by-step walkthrough of installing Gateway API v1.5 and Envoy Gateway on k0s, covering the --skip-crds requirement, how to read Gateway status without a cloud load balancer, and three curl tests that confirm routing works."
 slug: "gateway-api-end-to-end-on-k0s"
 image: ""
